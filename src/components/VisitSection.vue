@@ -1,0 +1,3 @@
+<template>
+  <section class="wrap section visit" id="visit"><div><div class="eyebrow">COME ON IN</div><h2>留个位置，<br />等你来吃饭。</h2><div class="info-row"><span>餐厅地址</span><span>杭州市 · 西湖区 · 青芝坞 18 号</span></div><div class="info-row"><span>营业时间</span><span>周一至周日　11:00—14:00<br />晚市　17:00—21:30</span></div><div class="info-row"><span>电话预约</span><span><a href="tel:057188886688">0571-8888-6688</a></span></div></div><div class="visit-card"><div class="visit-card-label">YOUR TABLE IS WAITING</div><h3>一顿饭的时间，<br />刚好把心情安顿好。</h3><p>周末和节假日建议提前预约。我们会为你留好靠窗的位置。</p><a class="button" href="tel:057188886688">电话预约 · 0571-8888-6688 <span>↗</span></a></div></section>
+</template>
