@@ -1,0 +1,3 @@
+<template>
+  <section class="story" id="story"><div class="wrap story-inner"><div class="story-photo"><img src="https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=1100&q=85" alt="餐桌上的当季家常菜" loading="lazy" /></div><div><div class="eyebrow">OUR LITTLE STORY</div><h2>把日子过慢一点，<br />把饭吃好一点。</h2><p>禾院的故事，从一张热气腾腾的饭桌开始。我们挑来当季的新鲜食材，花一点时间认真烹调，只盼你坐下时，能尝到熟悉的家常味，也感受到被好好招待的温暖。</p><p>无论是和家人团聚，还是与朋友聊聊近况，这方小院都为你留着一张桌子。进门歇歇脚，吃口热饭，像回家一样自在。</p><a href="#visit" class="text-link">来禾院，吃顿饭&nbsp; →</a><div class="values"><div class="value"><strong>当季</strong><span>食材随节气而来</span></div><div class="value"><strong>本味</strong><span>少一点修饰</span></div><div class="value"><strong>用心</strong><span>每道都认真做</span></div></div></div></div></section>
+</template>
